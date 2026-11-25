@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="46" fill="#FDB94E" stroke="#18181B" stroke-width="6"/>
+  <!-- Cute cat ears -->
+  <polygon points="25,35 15,10 42,22" fill="#FFFFFF" stroke="#18181B" stroke-width="5" stroke-linejoin="round"/>
+  <polygon points="75,35 85,10 58,22" fill="#FFFFFF" stroke="#18181B" stroke-width="5" stroke-linejoin="round"/>
+  <!-- Eyes -->
+  <circle cx="38" cy="52" r="5" fill="#18181B"/>
+  <circle cx="62" cy="52" r="5" fill="#18181B"/>
+  <!-- Nose & mouth -->
+  <ellipse cx="50" cy="62" rx="3" ry="2.5" fill="#18181B"/>
+  <path d="M 44,67 Q 50,73 50,67 Q 50,73 56,67" fill="none" stroke="#18181B" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Whiskers -->
+  <line x1="22" y1="58" x2="33" y2="60" stroke="#18181B" stroke-width="3" stroke-linecap="round"/>
+  <line x1="22" y1="67" x2="33" y2="66" stroke="#18181B" stroke-width="3" stroke-linecap="round"/>
+  <line x1="78" y1="58" x2="67" y2="60" stroke="#18181B" stroke-width="3" stroke-linecap="round"/>
+  <line x1="78" y1="67" x2="67" y2="66" stroke="#18181B" stroke-width="3" stroke-linecap="round"/>
+</svg>
